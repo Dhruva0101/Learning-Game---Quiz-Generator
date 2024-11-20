@@ -1,10 +1,4 @@
-Sure! Based on the new files you’ve provided (the modules for generating questions and incorrect answers), I'll write an updated README that explains the functionality of your project. This will help others (or yourself) understand how to use the application and the overall project structure.
 
----
-
-### **README.md**
-
-```markdown
 # Quiz Generation with Incorrect Answer Options
 
 This project involves the generation of quiz questions from a given text document, where the document can either be a PDF or TXT file. It uses various NLP (Natural Language Processing) techniques, such as Named Entity Recognition (NER), TF-IDF, and word embeddings, to automatically generate multiple-choice questions with incorrect alternative answers.
