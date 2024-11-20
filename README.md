@@ -27,7 +27,7 @@ The project consists of multiple modules:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/quiz-generator.git
+git clone https://github.com/Dhruva0101/quiz-generator.git
 cd quiz-generator
 ```
 
