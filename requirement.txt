@@ -1,0 +1,5 @@
+plaintext
+Flask==2.3.2
+PyPDF2==1.28.0
+werkzeug==2.3.2
+question_generation==0.1.0
